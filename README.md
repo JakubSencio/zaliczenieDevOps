@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # zaliczenieDevOps
 =======
 # my-vue-app
@@ -25,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> e5e4ac1 (init)
